@@ -1,7 +1,6 @@
-# BLogic Internship App
+# B-Logic Internship App
 
 ## Project setup
-Delete `node_modules`
 ```
 npm install
 ```
